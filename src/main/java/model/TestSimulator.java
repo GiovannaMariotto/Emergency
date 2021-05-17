@@ -3,8 +3,15 @@ package model;
 public class TestSimulator {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		Simulator sim = new Simulator();
+		
+		//Impostare i parametri
+		
+		//Eseguire la simulazione
+		sim.init();
+		sim.run();
+		
+		//Leggere i output
 	}
 
 }

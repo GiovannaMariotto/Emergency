@@ -21,11 +21,17 @@ The severity code gives priority in accessing the doctors. Patients with the sam
 ### Timing
 
 Phase | Required Time | Example 
+
 ------|---------------|--------
+
 Triage | DURATION_TRIAGE | 5 minutes
+
 Handling a White patient  | DURATION_TRIAGE | 5 minutes
+
 Handling a Yellow patient  | DURATION_TRIAGE | 10 minutes
+
 Handling a Red patient | DURATION_TRIAGE | 15 minutes
+
 Handling a Black patient | N/A |  not needed
 
 ## Simulation Parameters
